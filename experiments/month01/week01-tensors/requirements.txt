@@ -1,0 +1,4 @@
+# Select the CPU or CUDA wheel index separately; see README.md.
+torch==2.8.0
+# PyTorch initializes NumPy interoperability on import.
+numpy==2.2.6
